@@ -37,7 +37,7 @@ const Sidebar: React.FC<SidebarProps> = ({ isOpen, handleOpen }) => {
               className="object-cover object-center"
             />
           </figure>
-          <div className="text-3xl font-bold text-primary">GIZMO</div>
+          <div className="text-3xl font-bold text-primary">BEATS</div>
         </div>
         <X
           className="lg:hidden"

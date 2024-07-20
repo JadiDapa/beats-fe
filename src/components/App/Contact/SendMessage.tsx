@@ -7,17 +7,17 @@ import { RiFacebookFill, RiInstagramFill, RiTwitterFill } from "react-icons/ri";
 const socialMediaLinks = [
   {
     link: "#",
-    label: "@Gizmo.tech",
+    label: "@Beats.Audio",
     Icon: RiInstagramFill,
   },
   {
     link: "#",
-    label: "Gizmo Tech",
+    label: "Beats Audio",
     Icon: RiFacebookFill,
   },
   {
     link: "#",
-    label: "gizmo_official",
+    label: "beats_official",
     Icon: RiTwitterFill,
   },
 ];

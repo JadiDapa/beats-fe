@@ -43,14 +43,15 @@ const WhyUs = () => {
           className="prose lg:prose-lg"
         >
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Id quisquam
-            illum quaerat! Officia omnis fuga labore ipsum soluta eos quo. Lorem
-            ipsum dolor sit amet consectetur adipisicing elit. Qui ea deleniti
-            quod!
+            We trying to providing the best experience of every corner in audio
+            world. BEATS giving you high quality audio and sleek comfy. With the
+            most latest technology provided, the voices that given is the best
+            for you
           </p>
           <p>
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Totam
-            dolorem temporibus deserunt exercitationem, dicta ea!
+            We also giving you the most comfortable shipping moment and 100%
+            covered warranty to giving the most trustworthy products for our
+            cosuments, right! its for you!
           </p>
         </div>
         <Button

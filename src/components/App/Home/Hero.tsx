@@ -1,8 +1,10 @@
+import { GetProducts } from "@/api/useProducts";
 import { Button } from "@/components/ui/button";
 import AnimatedNumbers from "react-animated-numbers";
 import { Link } from "react-router-dom";
 
 const Hero = () => {
+  const { products } = GetProducts();
   return (
     <section
       id="hero"
@@ -58,7 +60,7 @@ const Hero = () => {
                 type: "spring",
                 duration: index + 0.3,
               })}
-              animateToNumber={15}
+              animateToNumber={products?.length}
               fontStyle={{
                 fontSize: 36,
               }}

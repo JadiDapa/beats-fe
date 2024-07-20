@@ -6,7 +6,7 @@ const contactCardContent = [
     Icon: Mail,
     title: "Email Us",
     description: "from your app",
-    content: "Gizmocompany@gmail.com",
+    content: "BeatsAudio@gmail.com",
   },
   {
     Icon: MessagesSquare,
